@@ -1,0 +1,126 @@
+/* CSS Document */
+body {
+    margin: 0px;
+    font-size: 13px;
+    line-height: 21px;
+    color: #000000;
+    background-color: #000000;
+    padding: 0px;
+    font-weight: 300;
+    background-position: right bottom;
+    background-size: contain;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-repeat: repeat;
+    background-origin: content-box;
+    background-image: url(images/transparent.png);
+}
+a {
+    text-decoration: none;
+
+
+}
+nav {
+    height: 35px;
+    width: 100%;
+    margin: 0px auto 0px auto;
+    padding: 15px 10px 0px 0px;
+    background-color: #FFF;
+    border-bottom: 3px solid #000;
+    float: right;
+    clear: both;
+    vertical-align: baseline;
+    background-position: center bottom;
+    background-repeat: repeat-x;
+}
+nav ul {
+	width: auto;
+	margin: 0px;
+	padding: 0px;
+	float: right;
+}
+nav li {
+    width: auto;
+    display: inline-block;
+    list-style-type: none;
+}
+nav a {
+    margin: 25px 0px 0px 5px;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    color: #000000;
+    font-size: 20px;
+    background-image: url(images/spacecraft_fade.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    background-size: 25px 25px;
+}
+nav a:hover {
+    color: #9D2242;
+    background-image: url(images/spacecraft_full.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 25px 25px;
+}
+
+header{
+    height: 290px;
+    width: 100%;
+    margin: 0px auto 0px auto;
+    padding: 70px 0px 5px 0px;
+    background-color: #000000;
+    border-bottom: 2px solid #FFF;
+    float: left;
+    text-align: center;
+    background-image: url("images/history_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+div.centered-section {
+    width: 1000px;
+    margin: 0px auto 0px auto;
+    align-items: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.childpages {
+	color: #FFFFFF;
+}
+.childpages h2 {
+	margin: 0;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+.childpages p {
+	margin: -10px 0px -5px 0px;
+    padding: 10px 10px 10px 10px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 14px;
+}
+
+
+footer {
+	height: 10px;
+	text-align: center;
+	padding: 0px 0px 10px 0px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	float: left;
+	margin-top: 0px;
+}
+footer p {
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 12px;
+    color: #FFFFFF;
+}

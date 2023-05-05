@@ -1,0 +1,113 @@
+@charset "utf-8";
+header {
+    background-color: #FFF5F5;
+    padding: 10px;
+    width: 950px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    height: 270px;
+}
+footer {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  float: left;
+  color: #000000;
+}
+#page-content {
+    width: 930px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 8px solid #BF1E2D;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #DEF5FF;
+    text-align: justify;
+    text-justify: inter-word;
+    min-height: 500px;
+}
+nav {
+  width: 351px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  float: right;
+  text-align: right;
+}
+body {
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #EBF9FF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
+h1 {
+  color: #BF1E2D;
+  font-size: 30px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-weight: bold;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-size: 18px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+}
+header img {
+  padding-top: 40px;
+  padding-left: 15px;
+}
+a {
+  color: #BF1E2D;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: #0079A7;
+}
+figure {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  float: right;
+  width: 600px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+figcaption {
+  font-style: italic;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: right;
+}
+#page-content figure img {
+  width: 600px;
+  height: auto;
+}
+#page-content p {
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+nav p {
+  margin-top: 15px;
+  font-size: 20px;
+}

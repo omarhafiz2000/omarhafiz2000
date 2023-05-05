@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Girls &amp; Boys Club of America</title>
+<!-- TemplateEndEditable -->
+<link href="../club-styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header>
+  <nav>
+    <p><a href="../personal_development_program.html">Personal Development Program</a></p>
+    <p><a href="../summer_tutoring_program.html">Summer Tutoring Program</a></p>
+    <p><a href="../overnight_adventure_program.html">Overnight Adventure Program</a></p>
+    <p><a href="../volunteen_enrichment_program.html">VolunTeen Enrichment Program</a></p>
+    <p><a href="../career_mentoring_program.html">Career Mentoring Program</a></p>
+  </nav>
+  <a href="../index.html"><img src="../images/club-logo.png" width="448" height="140" alt=""/></a> </header>
+<!-- TemplateBeginEditable name="Page Content" -->
+<div id="page-content"><p></p></div>
+<!-- TemplateEndEditable -->
+<footer>Site Design by Girls &amp; Boys Club of America &copy;</footer>
+</body>
+</html>
